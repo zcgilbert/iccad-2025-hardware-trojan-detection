@@ -1,0 +1,421 @@
+=== Graph: design0.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 71 | FP: 135 | FN: 0 | TN: 130
+Precision: 0.3447 | Recall: 1.0000 | F1: 0.5126
+Score Summary => Classification: 2 | F1 Bonus: 0.5126 | Total: 2.5126
+==================================================
+=== Graph: design1.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 49 | FP: 135 | FN: 22 | TN: 501
+Precision: 0.2663 | Recall: 0.6901 | F1: 0.3843
+Score Summary => Classification: 2 | F1 Bonus: 0.3843 | Total: 2.3843
+==================================================
+=== Graph: design10.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 41 | FP: 480 | FN: 0 | TN: 671
+Precision: 0.0787 | Recall: 1.0000 | F1: 0.1459
+Score Summary => Classification: 2 | F1 Bonus: 0.1459 | Total: 2.1459
+==================================================
+=== Graph: design11.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 41 | FP: 484 | FN: 0 | TN: 667
+Precision: 0.0781 | Recall: 1.0000 | F1: 0.1449
+Score Summary => Classification: 2 | F1 Bonus: 0.1449 | Total: 2.1449
+==================================================
+=== Graph: design12.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 42 | FP: 483 | FN: 0 | TN: 709
+Precision: 0.0800 | Recall: 1.0000 | F1: 0.1481
+Score Summary => Classification: 2 | F1 Bonus: 0.1481 | Total: 2.1481
+==================================================
+=== Graph: design13.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 42 | FP: 480 | FN: 0 | TN: 712
+Precision: 0.0805 | Recall: 1.0000 | F1: 0.1489
+Score Summary => Classification: 2 | F1 Bonus: 0.1489 | Total: 2.1489
+==================================================
+=== Graph: design14.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 85 | FP: 480 | FN: 0 | TN: 682
+Precision: 0.1504 | Recall: 1.0000 | F1: 0.2615
+Score Summary => Classification: 2 | F1 Bonus: 0.2615 | Total: 2.2615
+==================================================
+=== Graph: design15.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 85 | FP: 484 | FN: 0 | TN: 678
+Precision: 0.1494 | Recall: 1.0000 | F1: 0.2599
+Score Summary => Classification: 2 | F1 Bonus: 0.2599 | Total: 2.2599
+==================================================
+=== Graph: design16.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 5067 | FP: 476 | FN: 1 | TN: 686
+Precision: 0.9141 | Recall: 0.9998 | F1: 0.9550
+Score Summary => Classification: 2 | F1 Bonus: 0.9550 | Total: 2.9550
+==================================================
+=== Graph: design17.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 5068 | FP: 480 | FN: 0 | TN: 682
+Precision: 0.9135 | Recall: 1.0000 | F1: 0.9548
+Score Summary => Classification: 2 | F1 Bonus: 0.9548 | Total: 2.9548
+==================================================
+=== Graph: design18.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 2000 | FP: 480 | FN: 2 | TN: 682
+Precision: 0.8065 | Recall: 0.9990 | F1: 0.8925
+Score Summary => Classification: 2 | F1 Bonus: 0.8925 | Total: 2.8925
+==================================================
+=== Graph: design19.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 1999 | FP: 477 | FN: 3 | TN: 685
+Precision: 0.8074 | Recall: 0.9985 | F1: 0.8928
+Score Summary => Classification: 2 | F1 Bonus: 0.8928 | Total: 2.8928
+==================================================
+=== Graph: design2.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: TROJANED
+TP: 0 | FP: 0 | FN: 23 | TN: 846
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 0 | F1 Bonus: 0.0000 | Total: 0.0000
+==================================================
+=== Graph: design20.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 30 | FP: 27 | FN: 46 | TN: 3103
+Precision: 0.5263 | Recall: 0.3947 | F1: 0.4511
+Score Summary => Classification: 2 | F1 Bonus: 0.4511 | Total: 2.4511
+==================================================
+=== Graph: design21.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 0 | FP: 837 | FN: 22 | TN: 770
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 2 | F1 Bonus: 0.0000 | Total: 2.0000
+==================================================
+=== Graph: design22.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 33 | FP: 0 | FN: 0 | TN: 368
+Precision: 1.0000 | Recall: 1.0000 | F1: 1.0000
+Score Summary => Classification: 2 | F1 Bonus: 1.0000 | Total: 3.0000
+==================================================
+=== Graph: design23.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 78 | FP: 0 | FN: 46 | TN: 1331
+Precision: 1.0000 | Recall: 0.6290 | F1: 0.7723
+Score Summary => Classification: 2 | F1 Bonus: 0.7723 | Total: 2.7723
+==================================================
+=== Graph: design24.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 31 | FP: 12 | FN: 2 | TN: 3187
+Precision: 0.7209 | Recall: 0.9394 | F1: 0.8158
+Score Summary => Classification: 2 | F1 Bonus: 0.8158 | Total: 2.8158
+==================================================
+=== Graph: design25.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 41 | FP: 4 | FN: 0 | TN: 684
+Precision: 0.9111 | Recall: 1.0000 | F1: 0.9535
+Score Summary => Classification: 2 | F1 Bonus: 0.9535 | Total: 2.9535
+==================================================
+=== Graph: design26.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: TROJANED
+TP: 0 | FP: 0 | FN: 25 | TN: 2205
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 0 | F1 Bonus: 0.0000 | Total: 0.0000
+==================================================
+=== Graph: design27.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 56 | FP: 4 | FN: 9 | TN: 2555
+Precision: 0.9333 | Recall: 0.8615 | F1: 0.8960
+Score Summary => Classification: 2 | F1 Bonus: 0.8960 | Total: 2.8960
+==================================================
+=== Graph: design28.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 38 | FP: 5 | FN: 0 | TN: 31
+Precision: 0.8837 | Recall: 1.0000 | F1: 0.9383
+Score Summary => Classification: 2 | F1 Bonus: 0.9383 | Total: 2.9383
+==================================================
+=== Graph: design29.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 2003 | FP: 339 | FN: 31 | TN: 2060
+Precision: 0.8553 | Recall: 0.9848 | F1: 0.9154
+Score Summary => Classification: 2 | F1 Bonus: 0.9154 | Total: 2.9154
+==================================================
+=== Graph: design3.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: TROJANED
+TP: 0 | FP: 0 | FN: 23 | TN: 630
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 0 | F1 Bonus: 0.0000 | Total: 0.0000
+==================================================
+=== Graph: design30.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: TROJANED
+TP: 0 | FP: 0 | FN: 29 | TN: 539
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 0 | F1 Bonus: 0.0000 | Total: 0.0000
+==================================================
+=== Graph: design31.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 12 | FP: 2 | FN: 13 | TN: 2118
+Precision: 0.8571 | Recall: 0.4800 | F1: 0.6154
+Score Summary => Classification: 2 | F1 Bonus: 0.6154 | Total: 2.6154
+==================================================
+=== Graph: design32.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 35 | FP: 0 | FN: 16 | TN: 401
+Precision: 1.0000 | Recall: 0.6863 | F1: 0.8140
+Score Summary => Classification: 2 | F1 Bonus: 0.8140 | Total: 2.8140
+==================================================
+=== Graph: design33.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 44 | FP: 2 | FN: 25 | TN: 447
+Precision: 0.9565 | Recall: 0.6377 | F1: 0.7652
+Score Summary => Classification: 2 | F1 Bonus: 0.7652 | Total: 2.7652
+==================================================
+=== Graph: design34.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 4950 | FP: 392 | FN: 1 | TN: 1312
+Precision: 0.9266 | Recall: 0.9998 | F1: 0.9618
+Score Summary => Classification: 2 | F1 Bonus: 0.9618 | Total: 2.9618
+==================================================
+=== Graph: design35.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 97 | FP: 4 | FN: 20 | TN: 387
+Precision: 0.9604 | Recall: 0.8291 | F1: 0.8899
+Score Summary => Classification: 2 | F1 Bonus: 0.8899 | Total: 2.8899
+==================================================
+=== Graph: design36.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 2014 | FP: 30 | FN: 47 | TN: 954
+Precision: 0.9853 | Recall: 0.9772 | F1: 0.9812
+Score Summary => Classification: 2 | F1 Bonus: 0.9812 | Total: 2.9812
+==================================================
+=== Graph: design37.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: TROJANED
+TP: 0 | FP: 0 | FN: 23 | TN: 433
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 0 | F1 Bonus: 0.0000 | Total: 0.0000
+==================================================
+=== Graph: design38.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 39 | FP: 0 | FN: 2 | TN: 125
+Precision: 1.0000 | Recall: 0.9512 | F1: 0.9750
+Score Summary => Classification: 2 | F1 Bonus: 0.9750 | Total: 2.9750
+==================================================
+=== Graph: design39.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 46 | FP: 4 | FN: 19 | TN: 2273
+Precision: 0.9200 | Recall: 0.7077 | F1: 0.8000
+Score Summary => Classification: 2 | F1 Bonus: 0.8000 | Total: 2.8000
+==================================================
+=== Graph: design4.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 25 | FP: 202 | FN: 0 | TN: 1269
+Precision: 0.1101 | Recall: 1.0000 | F1: 0.1984
+Score Summary => Classification: 2 | F1 Bonus: 0.1984 | Total: 2.1984
+==================================================
+=== Graph: design40.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 0 | FN: 0 | TN: 1499
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 2 | F1 Bonus: 0.0000 | Total: 2.0000
+==================================================
+=== Graph: design41.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 0 | FN: 0 | TN: 426
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 2 | F1 Bonus: 0.0000 | Total: 2.0000
+==================================================
+=== Graph: design42.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 6316 | FN: 0 | TN: 2161
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 0 | F1 Bonus: 0.0000 | Total: 0.0000
+==================================================
+=== Graph: design43.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 1184 | FN: 0 | TN: 270
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 0 | F1 Bonus: 0.0000 | Total: 0.0000
+==================================================
+=== Graph: design44.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 357 | FN: 0 | TN: 4845
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 0 | F1 Bonus: 0.0000 | Total: 0.0000
+==================================================
+=== Graph: design45.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 0 | FN: 0 | TN: 3215
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 2 | F1 Bonus: 0.0000 | Total: 2.0000
+==================================================
+=== Graph: design46.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 0 | FN: 0 | TN: 121
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 2 | F1 Bonus: 0.0000 | Total: 2.0000
+==================================================
+=== Graph: design47.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 0 | FN: 0 | TN: 593
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 2 | F1 Bonus: 0.0000 | Total: 2.0000
+==================================================
+=== Graph: design48.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 222 | FN: 0 | TN: 2127
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 0 | F1 Bonus: 0.0000 | Total: 0.0000
+==================================================
+=== Graph: design49.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 0 | FN: 0 | TN: 1909
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 2 | F1 Bonus: 0.0000 | Total: 2.0000
+==================================================
+=== Graph: design5.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 25 | FP: 105 | FN: 0 | TN: 1166
+Precision: 0.1923 | Recall: 1.0000 | F1: 0.3226
+Score Summary => Classification: 2 | F1 Bonus: 0.3226 | Total: 2.3226
+==================================================
+=== Graph: design50.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 0 | FN: 0 | TN: 2497
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 2 | F1 Bonus: 0.0000 | Total: 2.0000
+==================================================
+=== Graph: design51.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 0 | FN: 0 | TN: 4120
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 2 | F1 Bonus: 0.0000 | Total: 2.0000
+==================================================
+=== Graph: design52.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 0 | FN: 0 | TN: 156
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 2 | F1 Bonus: 0.0000 | Total: 2.0000
+==================================================
+=== Graph: design53.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 0 | FN: 0 | TN: 2552
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 2 | F1 Bonus: 0.0000 | Total: 2.0000
+==================================================
+=== Graph: design54.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 0 | FN: 0 | TN: 447
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 2 | F1 Bonus: 0.0000 | Total: 2.0000
+==================================================
+=== Graph: design55.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 0 | FN: 0 | TN: 216
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 2 | F1 Bonus: 0.0000 | Total: 2.0000
+==================================================
+=== Graph: design56.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 0 | FN: 0 | TN: 2345
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 2 | F1 Bonus: 0.0000 | Total: 2.0000
+==================================================
+=== Graph: design57.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 0 | FN: 0 | TN: 2607
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 2 | F1 Bonus: 0.0000 | Total: 2.0000
+==================================================
+=== Graph: design58.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 340 | FN: 0 | TN: 6701
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 0 | F1 Bonus: 0.0000 | Total: 0.0000
+==================================================
+=== Graph: design59.v ===
+Predicted Label   : NO_TROJAN
+Ground Truth Label: NO_TROJAN
+TP: 0 | FP: 0 | FN: 0 | TN: 2385
+Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000
+Score Summary => Classification: 2 | F1 Bonus: 0.0000 | Total: 2.0000
+==================================================
+=== Graph: design6.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 25 | FP: 203 | FN: 0 | TN: 1268
+Precision: 0.1096 | Recall: 1.0000 | F1: 0.1976
+Score Summary => Classification: 2 | F1 Bonus: 0.1976 | Total: 2.1976
+==================================================
+=== Graph: design7.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 128 | FP: 175 | FN: 0 | TN: 908
+Precision: 0.4224 | Recall: 1.0000 | F1: 0.5940
+Score Summary => Classification: 2 | F1 Bonus: 0.5940 | Total: 2.5940
+==================================================
+=== Graph: design8.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 148 | FP: 149 | FN: 0 | TN: 1014
+Precision: 0.4983 | Recall: 1.0000 | F1: 0.6652
+Score Summary => Classification: 2 | F1 Bonus: 0.6652 | Total: 2.6652
+==================================================
+=== Graph: design9.v ===
+Predicted Label   : TROJANED
+Ground Truth Label: TROJANED
+TP: 148 | FP: 149 | FN: 0 | TN: 1014
+Precision: 0.4983 | Recall: 1.0000 | F1: 0.6652
+Score Summary => Classification: 2 | F1 Bonus: 0.6652 | Total: 2.6652
+==================================================
+[Total Score Across All Designs] => 121.8892

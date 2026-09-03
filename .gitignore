@@ -1,0 +1,50 @@
+# Build artefacts produced by the pipeline; all regenerable.
+build/
+*.pt.tmp
+
+# Graph tensors and spreadsheet dumps from build_graph.py.  The corpus of
+# these runs to ~1.6 GB and is version-specific; regenerate rather than commit.
+graphs/
+*_graphs/
+*_excels/
+*.xlsx
+!results/official_scorecard_cada1033.xlsx
+
+# Predictions from a local run.  The submitted set lives in
+# results/contest_submission/ and is committed deliberately.
+predictions/
+predicted_results/
+
+# EDA tool logs and scratch files (Design Compiler / Genus).
+command.log
+default.svf
+genus.cmd
+genus.log
+*.svf
+fv/
+alib-*/
+
+# Rendered figures from ad-hoc visualiser runs.  The two in docs/figures/ are
+# committed on purpose.
+*.svg
+!docs/figures/*.svg
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
